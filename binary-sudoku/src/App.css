@@ -1,0 +1,88 @@
+
+
+.App {
+  background-color: rgb(59, 59, 59);
+  padding: 20px;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  position: fixed;
+}
+.main-container{
+  justify-content: center;
+}
+
+#myCol {
+  max-width: 76px;
+  margin: 3px;
+  padding: 0px;
+  transition: 1500ms;
+
+}
+
+/* @keyframes winPulseAnimation {
+  50% {
+
+  }
+} */
+
+
+
+#myRow {
+  max-width: 100%;
+  margin: 0px;
+  justify-content: center;
+}
+
+.main-container[disabled] {
+  pointer-events: none;
+}
+
+
+.game-unit{
+  height: 76px;
+  width: 76px;
+}
+
+.game-unit:hover{
+  transform: scale(1.1);
+  transition: 100ms;
+}
+
+.square {
+  width: 70px;
+  height: 70px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.575);
+  border-radius: 5px;
+}
+
+.initial-square {
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+  
+}
+
+.initial-square:hover{
+  filter: saturate(85%);
+  transform: scale(0.993);
+  transition: 250ms;
+}
+
+.initial-square:active {
+  animation: lockedClick;
+  animation-duration: 350ms;
+}
+
+@keyframes lockedClick {
+  25% {
+    transform: rotate(3deg);
+    animation-timing-function: ease-out;
+  }
+  50% {
+    transform: rotate(-3deg);
+  }
+  65% {
+    transform: rotate(2deg);
+  }
+}
