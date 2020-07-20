@@ -9,6 +9,10 @@ As the user gets closer to solving the puzzle, the reds and blues will meld and 
 
 [![Mod 4 Project - Binary Sudoku](https://img.youtube.com/vi/nqE9Iu823MM/0.jpg)](https://www.youtube.com/watch?v=nqE9Iu823MM)
 
+![Binary Sudoku Demo](binary-sudoku/mod4.gif)
+
+
+
 
 ## Technologies Used
 
