@@ -6,7 +6,9 @@ To solve the puzzle, the gameboard must end up with half of its squares red and 
 
 As the user gets closer to solving the puzzle, the reds and blues will meld and turn the gameboard more and more purple!
 
-[App Demo](https://youtu.be/JV4jlyRmnw0)
+
+[![Mod 4 Project - Binary Sudoku](https://img.youtube.com/vi/nqE9Iu823MM/0.jpg)](https://www.youtube.com/watch?v=nqE9Iu823MM)
+
 
 ## Technologies Used
 
