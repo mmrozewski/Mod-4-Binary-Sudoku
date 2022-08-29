@@ -7,7 +7,7 @@ To solve the puzzle, the gameboard must end up with half of its squares red and 
 As the user gets closer to solving the puzzle, the reds and blues will meld and turn the gameboard more and more purple!
 
 
-[![Mod 4 Project - Binary Sudoku](https://img.youtube.com/vi/cxqcYcBRbqo/0.jpg)](https://www.youtube.com/watch?v=nqE9Iu823MM)
+[![Mod 4 Project - Binary Sudoku](https://img.youtube.com/vi/cxqcYcBRbqo/0.jpg)](https://youtu.be/cxqcYcBRbqo)
 
 ![Binary Sudoku Demo](binary-sudoku/mod4.gif)
 
